@@ -1,0 +1,1 @@
+{"name":"orix-smoke-test","version":"1.0.0","description":"A tiny npm project for testing purposes.","main":"index.js","scripts":{"start":"node index.js"},"author":"Your Name","license":"ISC","dependencies":{"orix-ai":"file:../.."}}
